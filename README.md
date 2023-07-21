@@ -7,3 +7,4 @@
 - [Next js](https://nextjs.org/)
 - [shadcn ui](https://ui.shadcn.com/)
 - [Tailwindcss](https://tailwindcss.com/)
+- Add Authentication using [Clerk](https://clerk.com/)
