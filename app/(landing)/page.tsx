@@ -1,5 +1,6 @@
 //app/page.tsx
 import {Button} from '@/components/ui/button';
+import Logo from '@/components/ui/logo';
 import Link from 'next/link';
 export default function LandingPage() {
 	return (
@@ -11,6 +12,7 @@ export default function LandingPage() {
 			<Link href='/sign-up'>
 				<Button>register</Button>
 			</Link>
+			<Logo  />
 		</div>
 	);
 }
