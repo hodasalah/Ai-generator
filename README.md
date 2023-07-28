@@ -1,4 +1,4 @@
-# Ai-generator-Saas-app
+# Intra-SAAS Ai-generator
 
 ![alt text](<https://github.com/hodasalah/Ai-generator/blob/main/public/images/logo%20(4).png>)
 
